@@ -1,0 +1,4 @@
+public struct GameLaunchEvent : IEvent
+{
+  
+}
